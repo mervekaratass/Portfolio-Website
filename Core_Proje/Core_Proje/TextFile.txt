@@ -1,0 +1,18 @@
+﻿*Grafikler(statik-dinamik)
+*rolleme devamı
+*deploy
+
+--------------------------
+Bonus
+*Api ille projenin haberleştirilmesi
+*Unit of work design pattern
+*Elastic Search
+*Docker
+*Ana Final
+
+--------------------
+benim düşündüklerim
+*ajax la contact tarafı
+*admin panelinde duyuru ekleme silme düzenleme eklenmeli
+*şu resim yükleme işlemlerinii öğren
+*yyeni kayda göre role ataması yapma kişiye

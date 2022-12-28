@@ -1,0 +1,30 @@
+﻿@model EntityLayer.Concrete.Service
+@{
+    ViewData["Title"] = "AddService";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        @using (Html.BeginForm("AddService", "Service", FormMethod.Post))
+        {
+            <div class="card-body">
+                <h4 class="card-title">Hizmet Ekleme Paneli</h4>
+                <form class="forms-sample">
+                    <div class="form-group">
+                        <br />
+                        @Html.Label("Hizmet Başlığı")
+                        @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+                        <br />
+                        <label>Resim Yolu</label>
+                        @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+                        <br />
+                        <button type="submit" class="btn btn-outline-primary m-2">Kaydet</button>
+                        @Html.ActionLink("İptal", "Index", "Service", null, new { @class = "btn btn-outline-danger" })
+                        </div>
+                 </form>
+            </div>
+        }
+    </div>
+</div>

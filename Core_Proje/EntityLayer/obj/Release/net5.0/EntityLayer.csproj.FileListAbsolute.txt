@@ -1,0 +1,15 @@
+D:\vscode2019\Core_Proje\EntityLayer\bin\Release\net5.0\EntityLayer.deps.json
+D:\vscode2019\Core_Proje\EntityLayer\bin\Release\net5.0\EntityLayer.runtimeconfig.json
+D:\vscode2019\Core_Proje\EntityLayer\bin\Release\net5.0\EntityLayer.runtimeconfig.dev.json
+D:\vscode2019\Core_Proje\EntityLayer\bin\Release\net5.0\EntityLayer.dll
+D:\vscode2019\Core_Proje\EntityLayer\bin\Release\net5.0\ref\EntityLayer.dll
+D:\vscode2019\Core_Proje\EntityLayer\bin\Release\net5.0\EntityLayer.pdb
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\EntityLayer.AssemblyInfo.cs
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\EntityLayer.dll
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\ref\EntityLayer.dll
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\EntityLayer.pdb
+D:\vscode2019\Core_Proje\EntityLayer\obj\Release\net5.0\EntityLayer.genruntimeconfig.cache

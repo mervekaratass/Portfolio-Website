@@ -1,0 +1,39 @@
+﻿@model EntityLayer.Concrete.Testimonial
+@{
+    ViewData["Title"] = "EditTestimonial";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        @using (Html.BeginForm("EditTestimonial", "Testimonial", FormMethod.Post))
+        {
+            <div class="card-body">
+                <h4 class="card-title">Referans Düzenleme Paneli</h4>
+                <form class="forms-sample">
+                    <div class="form-group">
+                        @*@Html.Label("ID")*@
+                        @Html.HiddenFor(x => x.TestimonialID, new { @class = "form-control" })
+                        <br />
+                        @Html.Label("Ad Soyad")
+                        @Html.TextBoxFor(x => x.ClientName, new { @class = "form-control" })
+                        <br />
+                        @Html.Label("Şirket")
+                        @Html.TextBoxFor(x => x.Company, new { @class = "form-control" })
+                        <br />
+                        @Html.Label("Unvan")
+                        @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+                        <br />
+                        @Html.Label("Resim Yolu")
+                        @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+                        <br />
+                        @Html.Label("Yorum")
+                        @Html.TextAreaFor(x => x.Comment,8,3, new { @class = "form-control" })
+                       <button type="submit" class="btn btn-outline-primary m-2">Kaydet</button>
+                        @Html.ActionLink("İptal", "Index", "Testimonial", null, new { @class = "btn btn-outline-danger" })
+                    </div>
+                </form>
+            </div>
+        }
+    </div>
+</div>

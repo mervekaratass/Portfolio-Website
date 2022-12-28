@@ -1,0 +1,48 @@
+﻿@model EntityLayer.Concrete.Portfolio
+@{
+    ViewData["Title"] = "AddPortfolio";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        @using (Html.BeginForm("AddPortfolio", "Portfolio", FormMethod.Post))
+        {
+            <div class="card-body">
+                <h4 class="card-title">Proje Ekleme Paneli</h4>
+                <form class="forms-sample">
+                    <div class="form-group">
+                        @Html.Label("Proje Başlığı")
+                        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Name)
+                        <br />
+                        <label>Görsel1</label>
+                        @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.ImageUrl)
+                        <br />
+                        <label>Görsel2</label>
+                        @Html.TextBoxFor(x => x.ImagetUrl2, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.ImagetUrl2)
+                        <br />
+                        <label>ProjeUrl</label>
+                        @Html.TextBoxFor(x => x.ProjectUrl, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.ProjectUrl)
+                        <br />
+                        <label>Fiyat</label>
+                        @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Price)
+                        <br />
+                        <label>Tamamlanma Oranı</label>
+                        @Html.TextBoxFor(x => x.Value, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Value)
+                        <br />
+                        <button class="btn btn-outline-primary m-2">Kaydet</button>
+                      
+                        @Html.ActionLink("İptal", "Index", "Portfolio", null, new { @class = "btn btn-outline-danger" })
+                </div>
+              </form>
+            </div>
+        }
+    </div>
+</div>
