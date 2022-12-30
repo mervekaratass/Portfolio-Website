@@ -5985,11 +5985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vscode2019\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
+      "projectUniqueName": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
       "projectName": "Core_Proje_Api",
-      "projectPath": "D:\\vscode2019\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
+      "projectPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
       "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
-      "outputPath": "D:\\vscode2019\\Core_Proje\\Core_Proje_Api\\obj\\",
+      "outputPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\Core_Proje_Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",

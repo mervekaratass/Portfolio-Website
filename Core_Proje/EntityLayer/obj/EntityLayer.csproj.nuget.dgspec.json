@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
-        "outputPath": "D:\\vscode2019\\Core_Proje\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",

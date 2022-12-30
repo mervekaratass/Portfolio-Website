@@ -6759,11 +6759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vscode2019\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "D:\\vscode2019\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
-      "outputPath": "D:\\vscode2019\\Core_Proje\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6780,11 +6780,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\vscode2019\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "D:\\vscode2019\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

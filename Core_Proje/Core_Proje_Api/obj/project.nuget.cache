@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "06ORM/7Ay4QmDYY4zmMNqEvy/IZOpb/gKaQwmxl1SEiFxtjCtQkJrHmmHpdCJNBGNK6GgqAcHAX/8zSZomVHdA==",
+  "dgSpecHash": "8cbkRict9q3vR8ra0Vxenih5hhxQozlPsgfxJ5PszQIRygfJPQqILVT7LhJ2L6sYqZD/4aufqchADJ7AkLNs+A==",
   "success": true,
-  "projectFilePath": "D:\\vscode2019\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
+  "projectFilePath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merve\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\merve\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

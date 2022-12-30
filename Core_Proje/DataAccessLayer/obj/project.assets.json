@@ -6641,11 +6641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vscode2019\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\vscode2019\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
-      "outputPath": "D:\\vscode2019\\Core_Proje\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6662,8 +6662,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

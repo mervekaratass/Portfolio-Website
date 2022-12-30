@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MWSIbcUgUTp08R3mzsnAicr/A71jp4VpmWUkztokWRwnapka4fejLGGNhud2UdxVhEiM0TUpjACm9k3np64+mw==",
+  "dgSpecHash": "8Uwzmr4ghYhqfJqQ0hvD4WGM8xI7QxXymVjAuWtmOT2albAUX+xMSvcyVrggBM1CJOxRkz9tMiJlK0pk/J5yeg==",
   "success": true,
-  "projectFilePath": "D:\\vscode2019\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merve\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\merve\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

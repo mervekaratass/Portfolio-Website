@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WMTSBID7nPOvk6t0FZnRXlOLgojc9/Zwyz8Ul/5bixr7trX0PaHx9doqzgqvXaG81VYGy7dQ5bZxXF1h86XsaQ==",
+  "dgSpecHash": "TkFulmp/sImPV8gfjRokhlC23diWb8bZp1tWM/UfOlhCRdsFYeJboEuvTKM1UmfhKq8Cbmnd7Wm2phpmgiNsVg==",
   "success": true,
-  "projectFilePath": "D:\\vscode2019\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\merve\\OneDrive\\Belgeler\\GitHub\\Cv-portfolio-website\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merve\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\merve\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
