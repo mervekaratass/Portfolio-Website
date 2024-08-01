@@ -1,7 +1,7 @@
-# Cv-portfolio website 
-The project consists of 3 separate panels: Admin, Visitor and Author. Up-to-date technologies such as ASP .NET Core 5.0, MVC, Ajax, Repository Design Pattern were used in the project. By reinforcing the use of Area-Route, it was studied in a more molecular structure. A dynamic cv site project was created.
+# Portfolyo Sitesi
+Portfolyo projesi, NET 5.0 kullanılarak geliştirilmiş modern bir portföy sitesidir. Bu proje, C# dili kullanılarak oluşturulan bir MVC projesidir. SOLID prensiplerine uygun olarak geliştirilen projede katmanlı mimari yapısı kullanılarak code-first yaklaşımı benimsenmiştir. Ayrıca, projenin içinde Identity, Fluent Validation, Entity Framework gibi teknolojiler ve kütüphaneler kullanılmaktadır.
 
-#### Home Page
+#### Ana Sayfa
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/home-page.png" width=400> 
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/service.png" width=400>
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/skill.png" width=400>
@@ -10,11 +10,11 @@ The project consists of 3 separate panels: Admin, Visitor and Author. Up-to-date
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/project.png" width=400>
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/project-details.png" width=400>
 
-#### Writer Panel
+#### Yazar Paneli
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/login.png" width=400>
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/writer-panel.png" width=400>
 
-#### Admin Panel
+#### Admin Paneli
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/admin-panel.png" width=400>
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/admin-edit.png" width=400>
 <img src="https://github.com/mervekaratass/Cv-portfolio-website-.net-core-mvc/blob/main/Images/admin-edit-2.png" width=400>
